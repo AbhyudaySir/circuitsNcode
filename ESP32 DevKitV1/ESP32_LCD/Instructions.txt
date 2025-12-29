@@ -1,0 +1,5 @@
+Add This URL To your Additional Board URLs
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+
+and Then Select
+Select Board - ESP32 Dev Module
